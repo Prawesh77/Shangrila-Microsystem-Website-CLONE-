@@ -1,0 +1,39 @@
+.product{
+    padding: 110px 70px 50px 70px;
+    text-align: center;
+    
+}
+h1{
+    padding-bottom: 50px;
+}
+.product_grid{
+    /* padding: 110px 70px 0 70px; */
+    display: grid;
+    /* grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px; */
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    column-gap: 100px;
+    row-gap: 30px;
+    justify-content: center;
+    align-items: center;
+    vertical-align:bottom;
+    margin-bottom: 110px;
+}
+.for_img img{
+    width:200px;
+    height: 175px;
+    margin-bottom: 30px;
+}
+
+.product_flex div{
+    margin: 40px 30px;
+}
+
+.secondary{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+    padding:110px 0px;
+    background-color: rgb(127, 178, 255);
+}
+
