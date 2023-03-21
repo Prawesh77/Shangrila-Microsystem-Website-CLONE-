@@ -71,7 +71,7 @@ li:hover{
 }
 
 .home{
-    background-image: url(/images/Banner-compressed.jpg);
+    background-image: url(../images/Banner-compressed.jpg);
     height:740px;
     background-position: center;
     background-size: cover;
