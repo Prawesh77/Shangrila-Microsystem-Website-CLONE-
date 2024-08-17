@@ -1,5 +1,6 @@
 # Shangrila-Microsystem-Website
 
-clone website of shangrila microsystem company
+Cloned previous website of Shangrila Microsystem
+Skills Showcase: HTML, CSS, JS
 
 
